@@ -24,3 +24,5 @@
 4. Runing the test
    ```bash
    npx playwright test --ui
+
+5. [Report](/report.pdf)
